@@ -1,3 +1,9 @@
+My First React Application for a group project together with Millene and Olga at Internet Web Application in 2020. 
+The name of the course is 5054 Application Project
+
+**********************************************************
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
